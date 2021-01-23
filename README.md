@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-sagar&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-sagar" /> </p>
 
-- 🔭 I’m currently working on **Expense Tracker with voice enabled**
+- 🔭 I’m currently working on **Redux**
 
 - 🌱 I’m currently learning **TypeScript, React Native, GraphQL**
 
