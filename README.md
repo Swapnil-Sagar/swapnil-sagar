@@ -38,10 +38,13 @@
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Languages Used</summary>
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil-sagar&show_icons=true&locale=en&layout=compact" alt="swapnil-sagar" />
 </details>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" />
+</details>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" /></p>
