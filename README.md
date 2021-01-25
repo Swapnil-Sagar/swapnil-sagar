@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-sagar&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-sagar" /> </p>
 
+<img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
+
 - 🔭 I’m currently working on **Redux**
 
 - 🌱 I’m currently learning **TypeScript, React Native, GraphQL**
@@ -47,4 +49,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" />
 </details>
 
-<img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
+
