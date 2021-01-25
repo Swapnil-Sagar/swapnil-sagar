@@ -47,4 +47,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" />
 </details>
 
-<img alt="Gif" height="250px" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
+<img alt="Gif" height="250px" left:"250px" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
