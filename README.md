@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Redux**
 
-- 🌱 I’m currently learning **TypeScript, React Native, GraphQL**
+- 🌱 I’m currently learning **NextJs, React Native, GraphQL**
 
 - 👯 I’m looking to collaborate on **Anything with Front-end, just ping me.**
 
