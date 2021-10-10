@@ -5,7 +5,7 @@
 
 <img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
 
-- 🔭 I’m currently working on **Redux**
+- 🔭 I’m currently working on **Dark Flipkart**
 
 - 🌱 I’m currently learning **NextJs, React Native, GraphQL**
 
