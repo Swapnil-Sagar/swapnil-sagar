@@ -49,10 +49,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" />
 </details>
 
-<details>
- <a href="https://app.daily.dev/Ocean"><img src="https://api.daily.dev/devcards/02266cb423b7444ba5d4362fec652740.png?r=xe1" width="400" alt="Swapnil Sagar's Dev Card"/></a>
-</details>
-
-
 
 
