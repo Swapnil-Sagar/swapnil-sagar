@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swapnil-Sagar](https://github.com/Swapnil-Sagar)
 
-- 📝 I regularly write articles on [https://fullstackway.netlify.app/](https://fullstackway.netlify.app/)
+- 📝 I regularly write articles on https://www.linkedin.com/in/swapnilsagar09/
 
 - 💬 Ask me about **React or anything you like. I am up for a coffee :)**
 
