@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dark Flipkart**
 
-- 🌱 I’m currently learning **NextJs, React Native, GraphQL**
+- 🌱 I’m currently learning **Solidity, Smart Contracts, etc**
 
 - 👯 I’m looking to collaborate on **Anything with Front-end, just ping me.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **swapnilsagar09@gmail.com**
 
-- 📄 Know about my experiences [https://swapnilsagar.netlify.app/](https://swapnilsagar.netlify.app/)
+- 📄 Know about my experiences [https://swapnil-sagar.github.io/](https://swapnil-sagar.github.io/)
 
 - ⚡ Fun fact **A single ; can either save your weekend or completely waste it :P**
 
