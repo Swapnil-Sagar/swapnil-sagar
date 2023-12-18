@@ -5,11 +5,11 @@
 
 <img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **[Townhall](https://www.townhallgov.com/)**
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts, etc**
 
-- 👯 I’m looking to collaborate on **Anything with Front-end, just ping me.**
+- 👯 I’m looking to collaborate on **Anything with Web3, Front-end, just ping me.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swapnil-Sagar](https://github.com/Swapnil-Sagar)
 
