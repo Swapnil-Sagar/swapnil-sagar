@@ -5,7 +5,7 @@
 
 <img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
 
-- 🔭 I’m currently working on **[Townhall](https://www.townhallgov.com/)**
+- 🔭 I’m currently working on Myself
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts, etc**
 
