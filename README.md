@@ -1,53 +1,78 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Swapnil Sagar</h1>
-<h3 align="center">A passionate frontend developer moving towards Web3.</h3>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Swapnil Sagar</h1>
+<h3 align="center">🌐 Frontend Developer | Web3 Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-sagar&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-sagar" /> </p>
-
-<img alt="Gif" height="250px" align="right" src="https://thumbs.gfycat.com/DifficultLimpingBubblefish-small.gif">
-
-- 🔭 I’m currently working on Myself
-
-- 🌱 Learning **Solidity, Smart Contracts, etc**
-
-- 👯 I’m looking to collaborate on **Anything with Web3, Front-end, just ping me.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Swapnil-Sagar](https://github.com/Swapnil-Sagar)
-
-- 📝 I regularly write articles on https://www.linkedin.com/in/swapnilsagar09/
-
-- 💬 Ask me about **React or anything you like. I am up for a coffee :)**
-
-- 📫 How to reach me **swapnilsagar09@gmail.com**
-
-- 📄 Know about my experiences [https://swapnil-sagar.github.io/](https://swapnil-sagar.github.io/)
-
-- ⚡ Fun fact **A single ; can either save your weekend or completely waste it :P**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/swapnil09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/swapnil09" height="30" width="40" /></a>
-<a href="https://twitter.com/sagar946" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sagar946" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/swapnilsagar09/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/swapnilsagar09/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9269419/swapnil-sagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/9269419/swapnil-sagar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sagar.swapnil946/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sagar.swapnil946/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_swapnilsagar_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_swapnilsagar_/?hl=en" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/swapnil09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="https://dribbble.com/swapnil09" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/swapnil946" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/swapnil946" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swapnil-sagar&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="coding gif"/>
+</p>
 
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on **myself** and building in public
+- 🌱 Learning **Solidity**, **Smart Contracts**, and **Ethereum Development**
+- 👯 Looking to collaborate on **Web3 projects** and **modern frontend apps**
+- 🧠 Ask me about **React**, **Tailwind CSS**, or grab a virtual ☕
+- ✍️ I write regularly on [LinkedIn](https://www.linkedin.com/in/swapnilsagar09/)
+- 📫 Reach me at: **swapnilsagar09@gmail.com**
+- 🧾 Know more: [swapnil-sagar.github.io](https://swapnil-sagar.github.io/)
+- ⚡ Fun fact: _A single `;` can either save or ruin your entire weekend_ 😅
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://dev.to/swapnil09" target="_blank"><img src="https://cdn.simpleicons.org/devdotto/white" alt="Dev.to" width="30"/></a>
+  <a href="https://twitter.com/sagar946" target="_blank"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="30"/></a>
+  <a href="https://www.linkedin.com/in/swapnilsagar09/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="30"/></a>
+  <a href="https://stackoverflow.com/users/9269419/swapnil-sagar" target="_blank"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="StackOverflow" width="30"/></a>
+  <a href="https://www.facebook.com/sagar.swapnil946/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="30"/></a>
+  <a href="https://www.instagram.com/_swapnilsagar_/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="30"/></a>
+  <a href="https://dribbble.com/swapnil09" target="_blank"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" alt="Dribbble" width="30"/></a>
+  <a href="https://www.codechef.com/users/swapnil946" target="_blank"><img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="30"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="30" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" alt="React"/>
+  <img src="https://cdn.simpleicons.org/redux/764ABC" width="30" alt="Redux"/>
+  <img src="https://cdn.simpleicons.org/node.js/339933" width="30" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="30" alt="Express"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" alt="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="30" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/graphql/E10098" width="30" alt="GraphQL"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="30" alt="Bootstrap"/>
+  <img src="https://cdn.simpleicons.org/sass/CC6699" width="30" alt="Sass"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="30" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="30" alt="Firebase"/>
+  <img src="https://cdn.simpleicons.org/gatsby/663399" width="30" alt="Gatsby"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" alt="C++"/>
+</p>
+
+---
 
 <details>
-  <summary>:zap: Languages Used</summary>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil-sagar&show_icons=true&locale=en&layout=compact" alt="swapnil-sagar" />
+  <summary>📊 <strong>Top Languages</strong></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swapnil-sagar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  </p>
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en" alt="swapnil-sagar" />
+  <summary>💻 <strong>GitHub Stats</strong></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
+  </p>
 </details>
-
-
-
