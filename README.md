@@ -102,8 +102,6 @@ const swapnil = {
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil-Sagar)](https://git.io/streak-stats)
 
 </div>
 
