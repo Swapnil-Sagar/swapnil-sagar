@@ -103,7 +103,7 @@ const swapnil = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnil-sagar&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Swapnil-Sagar)](https://git.io/streak-stats)
 
 </div>
 
