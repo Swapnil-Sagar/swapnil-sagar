@@ -92,21 +92,6 @@ const swapnil = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnil-sagar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil-sagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📈 Contribution Graph
 
 <div align="center">
