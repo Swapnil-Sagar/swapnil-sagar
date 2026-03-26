@@ -3,6 +3,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm **Swapnil Sagar**
 
 ### 🌐 Frontend Developer | Web3 Enthusiast | Lifelong Learner
+#### 4+ Years of Experience as frontend developer and currently open to Senior / Lead Frontend roles. 📩 swapnilsagar09@gmail.com
 
 <img src="https://komarev.com/ghpvc/?username=swapnil-sagar&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
